@@ -1,0 +1,22 @@
+h2 {
+	color: rgb(255,255,0);
+	text-align: center;
+}
+body {
+	background-image: url("imrane/backi.jpg");
+}
+p{
+	color: rgb(255,255,0);
+	font-size: 20px;
+	text-decoration-line: underline;
+}
+img {
+	height: 200px;
+	width: 200px;
+
+}
+
+.im1 {
+	display: flex;
+	animation: pulse 5s infinite;
+}
